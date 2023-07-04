@@ -1,0 +1,23 @@
+body{
+    background-color: darkgrey;
+}
+
+.meunome, .descricao{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+em{
+    color: brown;
+}
+
+.habilidadeA{
+    font-size: 20px;
+}
+
+.habilidadeB{
+    font-size: 17px;
+}
+
+.habilidadeC{
+    font-size: 14px;
+}
